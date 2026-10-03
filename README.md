@@ -1,9 +1,8 @@
-# samiyaasghar12-lgtm-
 <h1 align="center">Hi, I'm Samiya Asghar 👋</h1>
 <p align="center"><b>Computer Science Student · Java & Python Developer · Community Leader</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/samiya-asghar-aa5a87379/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
